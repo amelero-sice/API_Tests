@@ -1,0 +1,14 @@
+C:\Users\amelero\source\repos\UsersAPI\UsersAPI\bin\Debug\netcoreapp2.1\UsersAPI.deps.json
+C:\Users\amelero\source\repos\UsersAPI\UsersAPI\bin\Debug\netcoreapp2.1\UsersAPI.runtimeconfig.json
+C:\Users\amelero\source\repos\UsersAPI\UsersAPI\bin\Debug\netcoreapp2.1\UsersAPI.runtimeconfig.dev.json
+C:\Users\amelero\source\repos\UsersAPI\UsersAPI\bin\Debug\netcoreapp2.1\UsersAPI.dll
+C:\Users\amelero\source\repos\UsersAPI\UsersAPI\bin\Debug\netcoreapp2.1\UsersAPI.pdb
+C:\Users\amelero\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.1\UsersAPI.csproj.CoreCompileInputs.cache
+C:\Users\amelero\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.1\UsersAPI.RazorAssemblyInfo.cache
+C:\Users\amelero\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.1\UsersAPI.RazorAssemblyInfo.cs
+C:\Users\amelero\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.1\UsersAPI.AssemblyInfoInputs.cache
+C:\Users\amelero\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.1\UsersAPI.AssemblyInfo.cs
+C:\Users\amelero\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.1\UsersAPI.RazorTargetAssemblyInfo.cache
+C:\Users\amelero\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.1\UsersAPI.dll
+C:\Users\amelero\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.1\UsersAPI.pdb
+C:\Users\amelero\source\repos\UsersAPI\UsersAPI\obj\Debug\netcoreapp2.1\UsersAPI.csprojAssemblyReference.cache
